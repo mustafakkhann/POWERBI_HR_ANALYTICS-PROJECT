@@ -11,7 +11,7 @@ An interactive HR Analytics Dashboard built in Power BI that provides deep insig
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](dashboard_preview.png)
+![HR Analytics Dashboard](HR_anaytics_dashboard_image.png)
 
 ---
 
